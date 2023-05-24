@@ -1,0 +1,36 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  padding: 0 1rem;
+}
+
+.nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+.mainLogo {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  color: #1055bb;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.sidenav {
+  align-items: center;
+}
+
+.profileLogo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.profileLogo img {
+  width: 36px;
+  height: 36px;
+}

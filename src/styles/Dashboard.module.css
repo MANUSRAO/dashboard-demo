@@ -1,0 +1,18 @@
+.dashboard {
+  display: flex;
+  width: 100%;
+}
+.dashboardHeading {
+  font-size: 20px;
+  color: #757676;
+}
+.mainSearch {
+  width: 56vw;
+  min-height: 48px;
+  max-height: 48px;
+  font-size: 1rem;
+}
+
+.mainboard {
+  width: 1120px;
+}

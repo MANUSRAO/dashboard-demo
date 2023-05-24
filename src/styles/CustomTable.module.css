@@ -1,0 +1,27 @@
+.mainTable {
+  width: 100%;
+}
+.divHead {
+  display: flex;
+  width: 100%;
+  gap: 1rem;
+}
+.divHeadName {
+  margin-left: 50px;
+  margin-right: 341px;
+  color: #a2a3a5;
+}
+
+.divHeadType {
+  margin-right: 70px;
+  color: #a2a3a5;
+}
+
+.divHeadZone {
+  margin-right: 66px;
+  color: #a2a3a5;
+}
+
+.divHeadDate {
+  color: #a2a3a5;
+}

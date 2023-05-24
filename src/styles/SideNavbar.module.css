@@ -1,0 +1,54 @@
+.sidebar {
+  width: 320px;
+  padding: 0 1.5rem;
+  border-radius: 12px;
+  margin-right: 1rem;
+  background-color: #eef4fd;
+  color: #757676;
+  position: sticky;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.title > .clearBtn {
+  border: none;
+  background-color: #eef4fd;
+  color: #cb4e4e;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.line {
+  position: absolute;
+  left: 0px;
+  width: 320px;
+  border: 1px solid #a2a3a5;
+}
+
+.filterGroup {
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+}
+
+.filterGroup > p {
+  font-weight: 600;
+}
+.filterGroup > label {
+  margin-bottom: 0.75rem;
+}
+.expander {
+  background-color: #eef4fd;
+  border: none;
+  text-align: left;
+  margin-left: 1rem;
+  font-size: 13px;
+  color: #0066ff;
+  cursor: pointer;
+}

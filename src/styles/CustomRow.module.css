@@ -1,0 +1,141 @@
+.image {
+  width: 52px;
+  height: 52px;
+}
+
+.customRow {
+  display: flex;
+  background: #fafafa;
+  align-items: center;
+  border-radius: 12px;
+  height: 80px;
+  width: 1170px;
+  margin-bottom: 24px;
+}
+
+.divName {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-left: 1rem;
+  margin-right: 263px;
+  color: #0066ff;
+}
+
+.divType {
+  margin-right: 130px;
+  color: #a2a3a5;
+}
+
+.divZone {
+  margin-right: 137px;
+  color: #a2a3a5;
+}
+
+.divDate {
+  margin-right: 85px;
+  color: #a2a3a5;
+}
+
+.edit {
+  margin-right: 30px;
+  color: #0066ff;
+}
+
+.button {
+  color: #0066ff;
+  background: #d6e7ff;
+  border-radius: 14px;
+  border: none;
+  padding: 4px 10px 4px 10px;
+  cursor: pointer;
+}
+
+.customBlockRow {
+  width: 1170px;
+  border-radius: 12px;
+  background-color: #f4f9ff;
+}
+
+.newCustomRow {
+  display: flex;
+  background: #f4f9ff;
+  align-items: center;
+  height: 80px;
+  width: 1170px;
+  padding-top: 3rem;
+  border-radius: 12px;
+}
+
+.newdivName {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-left: 1rem;
+  margin-right: 263px;
+}
+
+.newdivName > img {
+  width: 80px;
+  height: 80px;
+}
+.customBlock {
+  display: flex;
+  background: #f4f9ff;
+  align-items: center;
+  width: 1170px;
+  margin-bottom: 24px;
+  border-radius: 12px;
+  padding-left: 2rem;
+}
+
+.blockLeft {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.blockRight {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+}
+
+.blockLeft p,
+.blockRight p {
+  font-size: 14px;
+}
+
+.blockContact {
+  margin-bottom: 1rem;
+}
+
+.headingText {
+  color: #a2a3a5;
+  font-size: 12px;
+}
+
+.infobox {
+  padding: 1rem 0rem 1rem 0rem;
+}
+
+.blockPurchasing {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.blockAddress {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.infobox2 {
+  padding: 1rem 4rem 1rem 0rem;
+}
+
+.infobox3 {
+  padding: 1rem 10rem 1rem 0rem;
+}
